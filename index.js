@@ -49,3 +49,4 @@ switch(nivel){
         console.log("Jogador comun")
         
 }
+
