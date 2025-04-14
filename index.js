@@ -1,5 +1,5 @@
 let nomeHeroi = "NomeDoHeroi"
-let xp = 1000
+let xp = 20000
 let nivel = "comun"
 
 if (xp < 1001) {
